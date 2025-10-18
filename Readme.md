@@ -1,5 +1,11 @@
 
 <img width="896" height="675" alt="Screenshot 2025-10-17 at 10 38 44 PM" src="https://github.com/user-attachments/assets/0ffc7c37-6002-4a0b-b1b1-8c20571d28c7" />
+<img width="1259" height="678" alt="Screenshot 2025-10-18 at 8 09 39 AM" src="https://github.com/user-attachments/assets/41052da9-c787-41e9-91b2-83f3a4908335" />
+<img width="1268" height="676" alt="Screenshot 2025-10-18 at 8 25 19 AM" src="https://github.com/user-attachments/assets/37a52033-3b5a-4ecf-9e91-562139635e32" />
+
+<img width="1259" height="678" alt="Screenshot 2025-10-18 at 8 10 46 AM" src="https://github.com/user-attachments/assets/2af80fd2-5f37-4f25-b0cb-1f5fe60f0088" />
+<img width="1268" height="676" alt="Screenshot 2025-10-18 at 8 26 02 AM" src="https://github.com/user-attachments/assets/5748a016-25f7-48f2-a144-54e5a496fc29" />
+
 <img width="1095" height="417" alt="Screenshot 2025-10-17 at 10 39 16 PM" src="https://github.com/user-attachments/assets/9adaeab2-a5dd-4af8-819b-7fc87f800c05" />
 ## Shrink – URL Shortener
 Shrink is a simple, fast, and secure URL shortening service that converts long URLs into compact, shareable links. It allows users to easily manage, track, and share shortened URLs.
