@@ -112,13 +112,13 @@ export function CreateLink() {
         {errors.title && <Error message={errors.title} />}
         <Input
           id="longUrl"
-          placeholder="Enter your Loooong URL"
+          placeholder="Enter your Long URL"
           value={formValues.longUrl}
           onChange={handleChange}
         />
         {errors.longUrl && <Error message={errors.longUrl} />}
         <div className="flex items-center gap-2">
-          <Card className="p-2">trimrr.in</Card> /
+          <Card className="p-2">shrink.in</Card> /
           <Input
             id="customUrl"
             placeholder="Custom Link (optional)"
